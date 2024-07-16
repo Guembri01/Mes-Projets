@@ -41,9 +41,8 @@ Embarquez pour un voyage d'apprentissage des langues avec notre plateforme eLear
 **Retours :**
 Flight2Fluency, acclamé avec la note la plus élevée de la promotion 2023, dispose d'un chatbot avancé utilisant Flask, NLP et l'intégration de modèles 3D. Les apprenants bénéficient d'une assistance linguistique interactive, d'explications précises sur le sens des mots et de réponses conviviales aux requêtes. L'évaluation robuste de la sécurité du projet et la pile technologique, comprenant Django, Python, React.js, Three.js et PostgreSQL, ont suscité des critiques positives pour son excellence globale.
 
-![Project 6.1](projet6(img1).png)
-![Project 6.2](projet6(img2).png)
-![Project 6.3](projet6(img3).jpg)
+![Project 6.1](project6(img1).png)
+![Project 6.2](project6(img2).png)
 
 ## Project3 -> Gestionnaire Web du site et CRM
 
@@ -74,7 +73,6 @@ Cette plateforme offre des expériences d'apprentissage personnalisées avec des
 ![Project 3.4](projet3(img4).png)
 ![Project 3.5](projet3(img5).png)
 
-Bien sûr, voici une version plus professionnelle en français :
 
 ## Projet4 -> Script Polyvalent de Nouvelles et de Magazine
 
@@ -121,7 +119,7 @@ https://bilelguembri.netlify.app
 
 ![Project 5.1](projet5(img1).png)
 ![Project 5.2](projet5(img2).png)
-![Project 5.3](projet5(img7).png)
+![Project 5.3](projet5(img3).png)
 ![Project 5.6](projet5(img4).png)
 
 ## Project5 -> Analyse Approfondie de la Satisfaction des Patients dans le Contexte Médical
