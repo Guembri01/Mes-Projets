@@ -13,7 +13,7 @@ Bienvenue dans mon portfolio ! Vous y trouverez une présentation de mes compét
 
 ## Projets achevés
 
-## Project1 -> Analyse Approfondie de la Satisfaction des Patients dans le Contexte Médical
+## Project 1 -> Analyse Approfondie de la Satisfaction des Patients dans le Contexte Médical
 Dans le cadre de mon Master en Big Data et Intelligence Artificielle, j'ai mené une Analyse Approfondie de la Satisfaction des Patients dans le Contexte Médical, en utilisant des méthodes telles que l'ACP, l'AFC, l'ACM et des techniques de classification comme le K-means. Grâce à ces méthodes analytiques avancées, j'ai exploré les réponses globales à un questionnaire.
 
 En conclusion, cette étude souligne l'importance cruciale de certains aspects, tels que le professionnalisme des soignants, la communication empathique et la compétence médicale, dans la formation de la satisfaction des patients. Ces insights fournissent des pistes précieuses pour améliorer la prestation des soins de santé et renforcer la relation patient-soignant.
